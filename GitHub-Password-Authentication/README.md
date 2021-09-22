@@ -4,6 +4,8 @@
 
  see above link to solve this problem.
 
- commad to applay this facility.
-
+commad to applay this facility:
 git config --global credential.helper cache
+
+commad to unset this facility:
+git config --global --unset credential.helper
